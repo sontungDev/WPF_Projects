@@ -1,0 +1,15 @@
+C:\Users\sontu\Desktop\ST\WPF Project\Caculator_WPF\bin\Debug\Caculator_WPF.exe.config
+C:\Users\sontu\Desktop\ST\WPF Project\Caculator_WPF\bin\Debug\Caculator_WPF.exe
+C:\Users\sontu\Desktop\ST\WPF Project\Caculator_WPF\bin\Debug\Caculator_WPF.pdb
+C:\Users\sontu\Desktop\ST\WPF Project\Caculator_WPF\obj\Debug\Caculator_WPF.csprojAssemblyReference.cache
+C:\Users\sontu\Desktop\ST\WPF Project\Caculator_WPF\obj\Debug\MainWindow.g.cs
+C:\Users\sontu\Desktop\ST\WPF Project\Caculator_WPF\obj\Debug\App.g.cs
+C:\Users\sontu\Desktop\ST\WPF Project\Caculator_WPF\obj\Debug\Caculator_WPF_MarkupCompile.cache
+C:\Users\sontu\Desktop\ST\WPF Project\Caculator_WPF\obj\Debug\Caculator_WPF_MarkupCompile.lref
+C:\Users\sontu\Desktop\ST\WPF Project\Caculator_WPF\obj\Debug\MainWindow.baml
+C:\Users\sontu\Desktop\ST\WPF Project\Caculator_WPF\obj\Debug\Caculator_WPF.g.resources
+C:\Users\sontu\Desktop\ST\WPF Project\Caculator_WPF\obj\Debug\Caculator_WPF.Properties.Resources.resources
+C:\Users\sontu\Desktop\ST\WPF Project\Caculator_WPF\obj\Debug\Caculator_WPF.csproj.GenerateResource.cache
+C:\Users\sontu\Desktop\ST\WPF Project\Caculator_WPF\obj\Debug\Caculator_WPF.csproj.CoreCompileInputs.cache
+C:\Users\sontu\Desktop\ST\WPF Project\Caculator_WPF\obj\Debug\Caculator_WPF.exe
+C:\Users\sontu\Desktop\ST\WPF Project\Caculator_WPF\obj\Debug\Caculator_WPF.pdb
